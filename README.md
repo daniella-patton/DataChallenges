@@ -1,6 +1,7 @@
 # Data Challenges
 
 Name: Daniella Patton
+
 Date: 2/24/2020
 
 # Introduction
@@ -15,3 +16,6 @@ wants to understand when a commodity price is about to increase temporarily, to 
 commodity early or wait until after the temporary increase.
 
 Data Challenge 2: 
+
+# License
+MIT @daniella-patton
