@@ -4,58 +4,23 @@ Name: Daniella Patton
 
 Date: 2/24/2020
 
-As a part of Insight Health Data Science Fellows Program, we were given the opportunity to work on two data challenges. The two Jupyter notebooks presented in this reposotiry are the product of a data challenge where we were asked to spend no more than 4 hours on each chalenge. 
+As a part of Insight Health Data Science Fellows Program, we were given the opportunity to work on two data challenges. The two Jupyter notebooks presented in this reposotiry are the product of a data challenge where we were asked to spend no more than 4 hours on each chalenge. A brief summary of the data challenges are described bellow. Associated csv file are included, when appropriate. 
 
-Data Challenge 1: 
+## Data Challenge 1: 
 
 The goal of this challenge is to forecast core construction material costs.
 Data: Pricing information (per unit, in dollars) for the company’s past purchases over the past ten
 years in CSV.
-
 Outcome: Forecast the price of each commodity up to six months into the future. Our manager
 wants to understand when a commodity price is about to increase temporarily, to either buy the
 commodity early or wait until after the temporary increase.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+All analysis was completed in a jupyter notbeook. All you should need to do is download the notbook and the associated csv file, change your working directory, and run the code. 
 
 ```
 Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ### And coding style tests
@@ -65,10 +30,6 @@ Explain what these tests test and why
 ```
 Give an example
 ```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
